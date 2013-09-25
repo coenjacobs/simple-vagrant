@@ -7,7 +7,7 @@ Installing this machine is pretty simple. All you need to do before you start it
 1. Make sure you've got [VirtualBox](https://www.virtualbox.org/) installed.
 2. [Install Vagrant](http://docs.vagrantup.com/v2/installation/).
 3. Clone this repository to your local file system, or download as zip and unzip it.
-4. Make a record in your hosts file for `simple-vagrant.localhost` set to IP: `192.168.99.56`
+4. [Make a record in your hosts file](http://decoding.wordpress.com/2009/04/06/how-to-edit-the-hosts-file-in-mac-os-x-leopard/) for `simple-vagrant.localhost` set to IP: `192.168.99.56`
 5. Browse to the folder (using your command line) where you cloned or unzipped this repository and enter `vagrant up`.
 
 ## Documentation resources
